@@ -1,0 +1,21 @@
+Five reasons yo choose Golang
+1 --> Build time : when we  want to deploy application we need to Build it first and build process is held on CI CD pipeline . As fast our application is 
+      is build as better. we use less resourses of CI CD if it build fast and do fast testing thats Go build fast.
+
+2 --> Fast Startup : we we need to scale our project then do upscale of project we need to start new instances very quickly so startup time matters.
+      Go is very fast because Go programe is compile directly in machine code. becauses od directly execution in machine code then the intermidate steps
+      like runtime initilize are not need because it execution in machine code.
+
+3 --> Performance and Efficiency : Go programes  use very efficient way of server resources like memory and cpu, memory useage is very less and it concurrency
+      model  utilze cpu in very proper way or light weight threads thats why Go Lang utilize very efficient way of its resources.
+
+** becauseit is a machine code thats why its Performance is very good
+
+4 --> Concurrency Model : Go lang have Goroutines concurrency model. Goroutines are lightweight threads of execution managed by the Go runtime 
+      because of Goroutines lightweight threads it utilize all cpur cores  very efficient way.
+
+5 --> Static typing and compilation : In Go Lang have Static typing in which varibles are declared and its type is defined an dthis is good. because 
+      In compilation phase if there is an error then it catch in compile time.
+      In non Static language if there is an error then we catch in production not get which compilation
+
+** when we build programe then the file size of executable file (programe executable in a single file) is very small as compare to other languages
