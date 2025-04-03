@@ -3,7 +3,7 @@ Five reasons yo choose Golang
       is build as better. we use less resourses of CI CD if it build fast and do fast testing thats Go build fast.
 
 2 --> Fast Startup : we we need to scale our project then do upscale of project we need to start new instances very quickly so startup time matters.
-      Go is very fast because Go programe is compile directly in machine code. becauses od directly execution in machine code then the intermidate steps
+      Go is very fast because Go programe is compile directly in machine code. becauses code directly execution in machine code then the intermidate steps
       like runtime initilize are not need because it execution in machine code.
 
 3 --> Performance and Efficiency : Go programes  use very efficient way of server resources like memory and cpu, memory useage is very less and it concurrency
